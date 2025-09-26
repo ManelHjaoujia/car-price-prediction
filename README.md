@@ -60,3 +60,23 @@ git clone https://github.com/ManelHjaoujia/car-price-prediction.git
 cd car-price-prediction
 pip install -r requirements.txt
 ```
+## Dependencies
+- Python 3.8+
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- plotly  
+- scikit-learn  
+
+## Key Learnings
+- Data preprocessing techniques: encoding, scaling, handling categorical and numerical features.  
+- Comparison of regression models and their trade-offs.  
+- Importance of evaluation metrics (RMSE, MAE, R²) for regression problems.  
+- Hyperparameter tuning with `RandomizedSearchCV` to optimize model performance.  
+- Practical application of ensemble methods like Random Forest.  
+
+## Author
+**Manel Hjaoujia**  
+Junior Data Scientist 
+Passionate about Data Science & Machine Learning  
